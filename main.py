@@ -2,7 +2,9 @@
 #from os import startfile
 import sqlite3
 from time import sleep
-
+#
+#
+#
 
 #Criando o banco de dados e o seu cursor
 banco = sqlite3.connect("Produtos.db")
